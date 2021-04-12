@@ -1,1 +1,3 @@
-# 贪食蛇游戏
+# Greedy Snake
+
+  basic function has been completed
