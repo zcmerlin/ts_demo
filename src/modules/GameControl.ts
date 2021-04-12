@@ -58,6 +58,7 @@ export default class GameControl {
     try {
       this.snake.X = X
       this.snake.Y = Y
+      // this.snake.moveBody()
     } catch(e) {
       alert(e.message)
       this.isLive = false
